@@ -1,4 +1,4 @@
-# v-weed test
+# v-weed
 
 Awesome component and composables library for Vue.js.
 The best thing you'll ever use.
